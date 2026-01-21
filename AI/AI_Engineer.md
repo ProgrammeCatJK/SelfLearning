@@ -92,17 +92,7 @@ Companies want to **capitalize on Generative AI** by:
 ---
 
 ## Building AI Products (High-Level Flow)
-Company Data
-↓
-Embeddings
-↓
-Vector Database
-↓
-Semantic Search
-↓
-Prompt
-↓
-LLM Response
+Company Data -> Embeddings -> Vector Database -> Semantic Search -> Prompt -> LLM Response
 
 AI Engineers focus on **orchestrating this pipeline**, not training the base model.
 
