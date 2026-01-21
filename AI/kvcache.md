@@ -1,3 +1,4 @@
+<img width="3322" height="1320" alt="Alculate and store litie" src="https://github.com/user-attachments/assets/29488d9c-cefc-41ed-aa87-b3a756910118" />
 # KV Cache (Key-Value Cache)
 
 ## What is KV Cache?
@@ -158,3 +159,4 @@ This shows:
 KV Cache optimizes **autoregressive Transformer inference** by reusing past attention computations.
 
 It trades **memory for speed**, making large language models practical for real-time use.
+<img width="3322" height="1320" alt="Alculate and store litie" src="https://github.com/user-attachments/assets/b0c29a22-0915-44e1-bf38-bc9acc44677d" />
